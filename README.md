@@ -1,4 +1,4 @@
-# Movie-Search-REST-Service
+# Annuity-Calculator-REST-Service
 RESTful API service to search movies
 
 ###### For code analysis and review import project as Maven project and build in your favorite IDE
@@ -14,9 +14,4 @@ RESTful API service to search movies
 
 ## Example URL
 
-###### http://localhost:8080/v1/movies/search?fskLabel=FSK16
-###### http://localhost:8080/v1/movies/download?fskLabel=FSK16
-
-## Negative case handling
-
-###### http://localhost:8080/v1/movies/download?fskLabel=FSK1
+###### http://localhost:8080/generate-plan
